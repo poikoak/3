@@ -1,0 +1,154 @@
+<DIR>    g:\SHAG lerning\C and C++\DZ\20-21\Project2\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\20-21\Project2\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\20-21\Project2\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\22\CPP_Sort\CPP_Sort\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\24\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\24\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\26\Queue\Queue\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\27\DZ\CPP_LinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\27\DZ\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\28\DoubleLinkedListl\DoubleLinkedList\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\28\DoubleLinkedListl\DoubleLinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\28\DoubleLinkedListl\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\29\first\first\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\29\first\first\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\29\second\second\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\30\Project\Project\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\31\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\31\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\31\Project1\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\31\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\32\DoubleLinkedListl\DoubleLinkedList\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\32\DoubleLinkedListl\DoubleLinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\32\DoubleLinkedListl\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\32\HW_DoubleLinkedList(Operators) - Ulanov\HW_DoubleLinkedList(Operators) - Ulanov\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\32\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\33\Project1\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\33\Project12\Project12\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\33\Project12\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\34\CPP_Graph — копия (2)\CPP_Graph\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\34\CPP_Graph — копия (2)\CPP_Graph\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\35\calc\Win32API\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\35\calc\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\35\Exam\Exam\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\35\fall buttn\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\35\fall buttn\Win32API\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\35\fall buttn\Win32API\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\17\CPP_FirstClasses\CPP_FirstClasses\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\17\CPP_FirstClasses\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\7\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\7\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\8\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\8\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\9\CPP_TemplateFunc\CPP_TemplateFunc\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\classRabota\9\CPP_TemplateFunc\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Exam №1\Project\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Exam №1\Project\Project\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 1( работа с int char)\1\Project1\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 13(Рекурсия)\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 13(Рекурсия)\Project2\Project2\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 13(Рекурсия)\Project3\Project3\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 13(Рекурсия)\Project4\Project4\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 13(Рекурсия)\Project5\Project5\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 13(Рекурсия)\simple_find_first\simple_find_first\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 14\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 14\Project2\Project2\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 15\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 15\Project2\Project2\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 16\task2\task2\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 18\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 18\Project2\Project2\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\HW19.2 - Ulanov\HW19.2 - Ulanov\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\Project1\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\Project1\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\Project2\Project2\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\Project2\Project2\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 19\Project2\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 7(функцю. в функц)\Project5\Project5\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 7(функцю. в функц)\Project5\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 8(двумерный динамический массив)\Project3\Project3\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\DZ\Домашнее задание 8(двумерный динамический массив)\Project3\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 17\CPP_FirstClasses\CPP_FirstClasses\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 17\CPP_FirstClasses\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 18\CPP_Array\CPP_Array\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 18\CPP_Array\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 24\CPP_Students\CPP_Students\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 24\CPP_Students\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 27\CPP_LinkedList\CPP_LinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 27\CPP_LinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 28\DoubleLinkedList\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 28\DoubleLinkedList\DoubleLinkedList\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 28\DoubleLinkedList\DoubleLinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 28\DoubleLinkedList\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 33\CPP_Graph\CPP_Graph
+<DIR>    g:\SHAG lerning\C and C++\Урок 33\CPP_Graph\CPP_Graph\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 33\CPP_Graph\CPP_Graph\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 33\CPP_Graph\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 7\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 7\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 8\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 8\Project1\Project1\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 9\CPP_TemplateFunc\CPP_TemplateFunc\x64\Debug
+<DIR>    g:\SHAG lerning\C and C++\Урок 9\CPP_TemplateFunc\x64\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\10(Sructures,XmlDOM,SortColection,Attributes,Builder,Collections)\CS_Attributes\CS_Attributes\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\10(Sructures,XmlDOM,SortColection,Attributes,Builder,Collections)\CS_Attributes\CS_Attributes\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\10(Sructures,XmlDOM,SortColection,Attributes,Builder,Collections)\CS_XmlDOM\CS_XmlDOM\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\10(Sructures,XmlDOM,SortColection,Attributes,Builder,Collections)\CS_XmlDOM\CS_XmlDOM\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\10(Sructures,XmlDOM,SortColection,Attributes,Builder,Collections)\DP_Builder\DP_Builder\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\10(Sructures,XmlDOM,SortColection,Attributes,Builder,Collections)\DP_Builder\DP_Builder\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\11(Observer,Crypto,Adapter,Decorator,Memento)\CS_Crypto\CS_Crypto\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\11(Observer,Crypto,Adapter,Decorator,Memento)\CS_Crypto\CS_Crypto\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\11(Observer,Crypto,Adapter,Decorator,Memento)\DP_Decorator\DP_Decorator\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\11(Observer,Crypto,Adapter,Decorator,Memento)\DP_Decorator\DP_Decorator\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\11(Observer,Crypto,Adapter,Decorator,Memento)\DP_Memento\DP_Memento\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\11(Observer,Crypto,Adapter,Decorator,Memento)\DP_Memento\DP_Memento\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\12(Generics,AbstractFactory,Composite,FactoryMethod,State)\DP_AbstractFactory\DP_AbstractFactory\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\12(Generics,AbstractFactory,Composite,FactoryMethod,State)\DP_AbstractFactory\DP_AbstractFactory\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\12(Generics,AbstractFactory,Composite,FactoryMethod,State)\DP_FactoryMethod2\DP_FactoryMethod2\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\12(Generics,AbstractFactory,Composite,FactoryMethod,State)\DP_FactoryMethod2\DP_FactoryMethod2\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\12(Generics,AbstractFactory,Composite,FactoryMethod,State)\DP_State2\DP_State2\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\12(Generics,AbstractFactory,Composite,FactoryMethod,State)\DP_State2\DP_State2\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\5(Regex,Dictionary,Enum)\CS_RegExp\CS_RegExp\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\5(Regex,Dictionary,Enum)\CS_RegExp\CS_RegExp\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\7(Interfaces,Polymorphism,Strategy)\DP_Strategy\DP_Strategy\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\7(Interfaces,Polymorphism,Strategy)\DP_Strategy\DP_Strategy\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\8(delegates,Events,Interf_event,Question,Serialization,Prototype,Singletone))\CS_Serialization\CS_Serialization\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\8(delegates,Events,Interf_event,Question,Serialization,Prototype,Singletone))\CS_Serialization\CS_Serialization\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\10\ConsoleAppAnalizer\ConsoleAppAnalizer\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\10\ConsoleAppAnalizer\ConsoleAppAnalizer\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\10\ConsoleAppXMLDOM\ConsoleAppXMLDOM\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\10\ConsoleAppXMLDOM\ConsoleAppXMLDOM\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\11\meme\meme\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\11\meme\meme\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\11\UMementoClass\UMementoClass\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\11\UMementoClass\UMementoClass\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\dz_AbstrFactory\dz_AbstrFactory\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\dz_AbstrFactory\dz_AbstrFactory\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\Dz_DP_State\ConsoleApp1\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\Dz_DP_State\ConsoleApp1\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\Graph\Graph\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\Graph\Graph\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\LinkedList\ConsoleApp1\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\12\LinkedList\ConsoleApp1\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\13+examenPaterns\ANTIMANTI\ANTIMANTI\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\13+examenPaterns\ANTIMANTI\ANTIMANTI\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\13+examenPaterns\ConsoleApp1\ConsoleApp1\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\13+examenPaterns\ConsoleApp1\ConsoleApp1\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\14-exam,Link\1ex\1ex\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\14-exam,Link\1ex\1ex\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\14-exam,Link\ConsoleApp1\ConsoleApp1\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\14-exam,Link\ConsoleApp1\ConsoleApp1\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\14-exam,Link\ex2\ex2\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\14-exam,Link\ex2\ex2\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\2\ConsoleApp1\ConsoleApp1\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\2\ConsoleApp1\ConsoleApp1\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\3\ConsoleApp1\ConsoleApp3\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\3\ConsoleApp1\ConsoleApp3\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\3\ConsoleApp2\ConsoleApp2\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\4\ConsoleApp1\ConsoleApp1\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\4\ConsoleApp1\ConsoleApp1\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\8\CS_Events1\CS_Events\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\8\CS_Events1\CS_Events\obj\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\8\CS_Events2\CS_Events\bin\Debug
+<DIR>    g:\SHAG lerning\С#\C# base\dz\8\CS_Events2\CS_Events\obj\Debug
